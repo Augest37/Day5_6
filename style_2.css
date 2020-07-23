@@ -1,0 +1,31 @@
+ul {
+	/*padding-left: 0px;*/
+	display: flex;
+	list-style-type: none;
+}
+li {
+	padding-right: 3rem;
+}
+
+dd{
+	margin-bottom: 1rem;
+}
+
+body {
+	max-width: 990px;
+	overflow: hidden;
+}
+
+div:nth-of-type(1) {
+	display: block;
+	width: 25%;
+	float:left;
+	background-color: blue;
+	color: white;
+	margin-bottom: -3000px;
+	padding-bottom: 3000px;
+}
+div:nth-of-type(2) {
+	width: 75%;
+	float:right;
+}

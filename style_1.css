@@ -1,0 +1,12 @@
+ul {
+	/*padding-left: 0px;*/
+	display: flex;
+	list-style-type: none;
+}
+li {
+	padding-right: 3rem;
+}
+
+dd{
+	margin-bottom: 1rem;
+}
